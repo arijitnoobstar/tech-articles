@@ -18,6 +18,8 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 
 >  #### [How to Fix Twitter—And All of Social Media](https://www.theatlantic.com/technology/archive/2022/05/how-to-fix-twitter-social-media/629951/). *(By [Jaron Lanier](https://www.theatlantic.com/author/jaron-lanier/), The Atlantic, 26th May 2022)*
 
+>  #### [Running Twitter Is Going to Disappoint Elon Musk](https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-twitter-free-speech/629673/). *(By [Evelyn Douek](https://www.theatlantic.com/author/evelyn-douek/), The Atlantic, 26th Apr 2022)*
+
 # Contributor(s)
 
 [Arijit Dasgupta](https://www.arijitdasgupta.com/)
