@@ -1,6 +1,6 @@
 
 
-# Tech Articles ![hbr](icons/hbr.svg) ![the-atlantic](icons/the-atlantic.svg) ![wired](icons/wired.svg)
+# Tech Articles ![tech](icons/tech.png)
 Hello! In this repository, I store the links to articles in the tech world I find interesting. Each article is accompanied by a short abstract I wrote after reading it. The topics are generally futuristic and range from ***AI, Autonomous Vehicles, Social Media, Crypto/Web3/NFTs, Metaverse/AR/VR, Robotics, Space Exploration, Internet-of-Things, Quantum Computing, Tech Startups, Electric Vehicles, Cleantech, Big Tech and other disruptive technologies*.**
 
 # Contents
