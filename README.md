@@ -6,6 +6,11 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 
 >  #### [Google’s ‘Sentient’ Chatbot Is Our Self-Deceiving Future](https://www.theatlantic.com/technology/archive/2022/06/google-engineer-sentient-ai-chatbot/661273/). *(By [Ian Bogost](https://www.theatlantic.com/author/ian-bogost/), The Atlantic, 15th June 2022)* 
 
+### AI Ethics
+
+>  #### [Why You Need an AI Ethics Committee
+](https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee). *(By [Reid Blackman](https://www.reidblackman.com/about/), Harvard Business Review, Jul-Aug 2022 Issue)*
+
 ## Crypto/Web3/NFTs
 
 ### Making sense of Web3/NFTs
