@@ -44,7 +44,9 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 # Sources
 
 [Harvard Business Review](https://hbr.org/)
+
 [The Atlantic](https://www.theatlantic.com/world/)
+
 [Wired](https://www.wired.com/)
 
 # Contributor(s)
