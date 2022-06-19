@@ -30,6 +30,12 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 >  #### [Running Twitter Is Going to Disappoint Elon Musk](https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-twitter-free-speech/629673/). *(By [Evelyn Douek](https://www.theatlantic.com/author/evelyn-douek/), The Atlantic, 26th Apr 2022)*
 >  Evelyn sends Elon Muck a reality-check by claiming it is unrealistic to get rid of moderation on social media platforms like Twitter without serious harm. However she supports Elon's goal in making Twitter's moderation algorithms open-source and transparent.
 
+# Sources
+
+[Harvard Business Review](https://hbr.org/)
+[The Atlantic](https://www.theatlantic.com/world/)
+[Wired](https://www.wired.com/)
+
 # Contributor(s)
 
 [Arijit Dasgupta](https://www.arijitdasgupta.com/)
