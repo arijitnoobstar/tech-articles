@@ -1,6 +1,6 @@
 
 
-# Tech Articles
+# Tech Articles ![hbr](icons/hbr.svg)
 Hello! In this repository, I store the links to articles in the tech world I find interesting. Each article is accompanied by a short abstract I wrote after reading it. The topics are generally futuristic and range from ***AI, Autonomous Vehicles, Social Media, Crypto/Web3/NFTs, Metaverse/AR/VR, Robotics, Space Exploration, Internet-of-Things, Quantum Computing, Tech Startups, Electric Vehicles, Cleantech, Big Tech and other disruptive technologies*.**
 
 # Contents
@@ -17,7 +17,7 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 ### AI Consciousness
 
 >  #### [Google’s ‘Sentient’ Chatbot Is Our Self-Deceiving Future](https://www.theatlantic.com/technology/archive/2022/06/google-engineer-sentient-ai-chatbot/661273/). *(By [Ian Bogost](https://www.theatlantic.com/author/ian-bogost/), The Atlantic, 15th June 2022)* 
->  Instead of rebuking Blake Lemoine for making false claims about Google LaMDA being sentient, Ian dives into the psychological reasons why humans are so easily fooled into categorizing computer programs as sentient. 
+>  Instead of rebuking Blake Lemoine for making false claims about Google's LaMDA being sentient, Ian dives into the psychological reasons why humans are so easily fooled into categorizing computer programs as sentient. 
 
 ### AI Ethics
 
