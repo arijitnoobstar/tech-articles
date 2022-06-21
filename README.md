@@ -5,7 +5,7 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 
 The topics are generally futuristic and range from ***AI, Autonomous Vehicles, Social Media, Crypto/Web3/NFTs, Metaverse/AR/VR, Robotics, Space Exploration, Internet-of-Things, Quantum Computing, Tech Startups, Electric Vehicles, Cleantech, Big Tech and other disruptive technologies*.**
 
-**Disclaimer:** *I acknowledge that some topics are strongly related to each other (e.g. Social Media, Metaverse & Big Tech) and some articles can be relevant to multiple topics/sub-topics. Nevertheless, the topic categorization reflects my sense of which ideas stick out often enough (from what i read/watch online) to be its own 'topic' and my choice of topic/sub-topic per article reflects my sense of which topic/sub-topic represented it the best.*
+**Disclaimer:** *I acknowledge that some topics are strongly related to each other (e.g. Social Media, Metaverse & Big Tech) and some articles can be relevant to multiple topics/sub-topics. Nevertheless, the topic categorization reflects my sense of which ideas stick out often enough (from what i read/watch online) to be its own 'topic' and my choice of topic/sub-topic per article reflects my sense of which topic/sub-topic represents it the best.*
 
 # Contents
  * [Artificial Intelligence](#artificial-intelligence)
@@ -50,6 +50,10 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 ## Metaverse-AR-VR
 
 ### Concerns about the Metaverse
+
+>  #### [The metaverse has a groping problem already](https://www.technologyreview.com/2021/12/16/1042516/the-metaverse-has-a-groping-problem/). *(By [Tanya Basu](https://www.technologyreview.com/author/tanya-basu/), MIT Technology Review, 16th Dec 2021)*
+>  Tanya brings to attention, the issue of sexual harassment in the Metaverse. She discusses specific examples, the validity of such virtual claims as well as how Metaverse-builders can make have a more direct method of stopping harassment instead of delineating the responsibility of prevention to users.
+
 >  #### [The metaverse is the next venue for body dysmorphia online](https://www.technologyreview.com/2021/11/16/1040174/facebook-metaverse-body-dysmorphia/). *(By [Tanya Basu](https://www.technologyreview.com/author/tanya-basu/), MIT Technology Review, 16th Nov 2021)*
 >  Of the many novel aspects of the Metaverse, Tanya brings to light the issue of body image problems from metaverse avatars. She highlights how accurate third-person view avatars of oneself can worsen body image issues and how inaccurate avatars may perpetuate unattainable standards of beauty.
 
