@@ -6,7 +6,7 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 # Contents
  * [Artificial Intelligence](#artificial-intelligence)
 	* [AI Consciousness](#ai-consciousness)
-	* [AI Ethics](#ai-ethics)
+	* [AI Ethics](#ai-ethics-and-regulation)
 	* [AI History and Philosophy](#ai-history-and-philosophy)
 * [Crypto-Web3-NFTs](#crypto-web3-nfts)
 	* [Making sense of Web3 and NFTs](#making-sense-of-web3-and-nfts)
@@ -20,10 +20,13 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 >  #### [Google’s ‘Sentient’ Chatbot Is Our Self-Deceiving Future](https://www.theatlantic.com/technology/archive/2022/06/google-engineer-sentient-ai-chatbot/661273/). *(By [Ian Bogost](https://www.theatlantic.com/author/ian-bogost/), The Atlantic, 15th June 2022)* 
 >  Instead of rebuking Blake Lemoine for making false claims about Google's LaMDA being sentient, Ian dives into the psychological reasons why humans are so easily fooled into categorizing computer programs as sentient. 
 
-### AI Ethics
+### AI Ethics and Regulation
 
 >  #### [Why You Need an AI Ethics Committee](https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee). *(By [Reid Blackman](https://www.reidblackman.com/about/), Harvard Business Review, Jul-Aug 2022 Issue)*
 >  Reid identifies the ways in which ethical problems can arise in AI products, how it can be detrimental to a business and proposes the makeup of an AI ethics committee in a corporation along with their specific roles and duties. These roles include ethics experts, technologists, business strategists, lawyers and bias scouts.
+
+>  #### [An AI Company Scraped Billions of Photos For Facial Recognition. Regulators Can't Stop It](https://time.com/6182177/clearview-ai-regulators-uk/). *(By [Billy Perrigo](https://time.com/author/billy-perrigo/), TIME, 27th May 2022)*
+>  Billy reports on the increasing fines, winning lawsuits and resistance against Clearview AI, a controversial facial recognition company with a web-scraped database of 20 billion images. However, Clearview AI does not have to comply with fines outside the US as there is no international agreement. A lack of federal privacy regulations in the US also means that their power is kept untamed.
 
 ### AI History and Philosophy
 
@@ -49,14 +52,16 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 >  Evelyn sends Elon Muck a reality-check by claiming it is unrealistic to get rid of moderation on social media platforms like Twitter without serious harm. However she supports Elon's goal in making Twitter's moderation algorithms open-source and transparent.
 
 >  #### [More Content Moderation Is Not Always Better ](https://www.wired.com/story/more-content-moderation-not-always-better/). *(By [Evelyn Douek](https://www.wired.com/author/evelyn-douek/), Wired, 2nd Jun 2021)*
->  While she agrees that content moderation has done more good than harm, Evelyn reminds us that we should not take their trade-offs for granted. With imperfect moderation, disproportionate power to a few Silicon Valley executives and geopolitical consequences, she posits that we should not blindly accept content moderation and seek to find a middle ground tech-based solution.
+>  While she agrees that content moderation has done more good than harm, Evelyn reminds us that we should not take their trade-offs for granted. With imperfect moderation, disproportionate power to a few Silicon Valley executives and geopolitical consequences, she posits that we should not blindly accept content moderation and seek to find a middle ground tech-based solutions.
 
 
 # Sources
 
 [Aeon](https://aeon.co/)\
 [Harvard Business Review](https://hbr.org/)\
+[MIT Technology Review](https://www.technologyreview.com/)\
 [The Atlantic](https://www.theatlantic.com/world/)\
+[TIME](https://time.com/)\
 [Wired](https://www.wired.com/)
 
 # Contributor(s)
