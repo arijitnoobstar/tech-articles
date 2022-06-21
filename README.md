@@ -28,7 +28,7 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 ### AI History and Philosophy
 
 
->  #### [AI’s first philosopher](https://aeon.co/essays/why-we-should-remember-alan-turing-as-a-philosopher). *(By [Sebastian Sunday Grève](https://www.yhposolihp.com/), Aeon, 21 Apr 2022 Issue)*
+>  #### [AI’s first philosopher](https://aeon.co/essays/why-we-should-remember-alan-turing-as-a-philosopher). *(By [Sebastian Sunday Grève](https://www.yhposolihp.com/), Aeon, 21st Apr 2022)*
 >  Sebastian writes a long essay detailing the historical accounts of Alan Turing's work on intelligent machinery. He posits that his work had the aim of conceptual clarity and not on operationalizing intelligence itself. He also explains why the Turing Test/Imitation Game is widely misunderstood by many.
 
 ## Crypto-Web3-NFTs
@@ -47,6 +47,10 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 
 >  #### [Running Twitter Is Going to Disappoint Elon Musk](https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-twitter-free-speech/629673/). *(By [Evelyn Douek](https://www.theatlantic.com/author/evelyn-douek/), The Atlantic, 26th Apr 2022)*
 >  Evelyn sends Elon Muck a reality-check by claiming it is unrealistic to get rid of moderation on social media platforms like Twitter without serious harm. However she supports Elon's goal in making Twitter's moderation algorithms open-source and transparent.
+
+>  #### [More Content Moderation Is Not Always Better ](https://www.wired.com/story/more-content-moderation-not-always-better/). *(By [Evelyn Douek](https://www.wired.com/author/evelyn-douek/), Wired, 2nd Jun 2021)*
+>  While she agrees that content moderation has done more good than harm, Evelyn reminds us that we should not take their trade-offs for granted. With imperfect moderation, disproportionate power to a few Silicon Valley executives and geopolitical consequences, she posits that we should not blindly accept content moderation and seek to find a middle ground tech-based solution.
+
 
 # Sources
 
