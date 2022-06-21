@@ -1,7 +1,11 @@
 
 
 # Tech Articles <img src="icons/tech.png" alt="tech" width="32"/>
-Hello! In this repository, I store the links to articles in the tech world I find interesting. Each article is accompanied by a short abstract I wrote after reading it. The topics are generally futuristic and range from ***AI, Autonomous Vehicles, Social Media, Crypto/Web3/NFTs, Metaverse/AR/VR, Robotics, Space Exploration, Internet-of-Things, Quantum Computing, Tech Startups, Electric Vehicles, Cleantech, Big Tech and other disruptive technologies*.**
+Hello! In this repository, I store the links to articles in the tech world I find interesting. Each article is accompanied by a short abstract I wrote after reading it.
+
+The topics are generally futuristic and range from ***AI, Autonomous Vehicles, Social Media, Crypto/Web3/NFTs, Metaverse/AR/VR, Robotics, Space Exploration, Internet-of-Things, Quantum Computing, Tech Startups, Electric Vehicles, Cleantech, Big Tech and other disruptive technologies*.**
+
+**Disclaimer:** *I acknowledge that some topics are strongly related to each other (e.g. Social Media, Metaverse & Big Tech) and some articles can be relevant to multiple topics/sub-topics. Nevertheless, the topic categorization reflects my sense of which ideas stick out often enough (from what i read/watch online) to be its own 'topic' and my choice of topic/sub-topic per article reflects my sense of which topic/sub-topic represented it the best.*
 
 # Contents
  * [Artificial Intelligence](#artificial-intelligence)
@@ -10,6 +14,8 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 	* [AI History and Philosophy](#ai-history-and-philosophy)
 * [Crypto-Web3-NFTs](#crypto-web3-nfts)
 	* [Making sense of Web3 and NFTs](#making-sense-of-web3-and-nfts)
+* [Metaverse-AR-VR](#metaverse-ar-vr)
+	* [Concerns about the Metaverse](#concerns-about-the-metaverse)
 * [Social Media](#social-media)
 	* [Free Speech and Content Moderation](#free-speech-and-content-moderation)
 
@@ -40,6 +46,12 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 
 >  #### [The Internet Is Just Investment Banking Now](https://www.theatlantic.com/technology/archive/2022/02/future-internet-blockchain-investment-banking/621480/). *(By [Ian Bogost](https://www.theatlantic.com/author/ian-bogost/), The Atlantic, 5th Feb 2022)*
 >  While acknowledging the common ridicule of NFTs, Ian composes an understanding of why people take them seriously, hence why they work. He also proposes that Web3 is merely but an explicit expression of how our digital lives are already commodified for the sake of profits.
+
+## Metaverse-AR-VR
+
+### Concerns about the Metaverse
+>  #### [The metaverse is the next venue for body dysmorphia online](https://www.technologyreview.com/2021/11/16/1040174/facebook-metaverse-body-dysmorphia/). *(By [Tanya Basu](https://www.technologyreview.com/author/tanya-basu/), MIT Technology Review, 16th Nov 2021)*
+>  Of the many novel aspects of the Metaverse, Tanya brings to light the issue of body image problems from metaverse avatars. She highlights how accurate third-person view avatars of oneself can worsen body image issues and how inaccurate avatars may perpetuate unattainable standards of beauty.
 
 ## Social Media
 
