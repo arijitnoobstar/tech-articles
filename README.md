@@ -7,6 +7,7 @@ Hello! In this repository, I store the links to articles in the tech world I fin
  * [Artificial Intelligence](#artificial-intelligence)
 	* [AI Consciousness](#ai-consciousness)
 	* [AI Ethics](#ai-ethics)
+	* [AI History and Philosophy](#ai-history-and-philosophy)
 * [Crypto-Web3-NFTs](#crypto-web3-nfts)
 	* [Making sense of Web3 and NFTs](#making-sense-of-web3-and-nfts)
 * [Social Media](#social-media)
@@ -23,6 +24,12 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 
 >  #### [Why You Need an AI Ethics Committee](https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee). *(By [Reid Blackman](https://www.reidblackman.com/about/), Harvard Business Review, Jul-Aug 2022 Issue)*
 >  Reid identifies the ways in which ethical problems can arise in AI products, how it can be detrimental to a business and proposes the makeup of an AI ethics committee in a corporation along with their specific roles and duties. These roles include ethics experts, technologists, business strategists, lawyers and bias scouts.
+
+### AI History and Philosophy
+
+
+>  #### [AI’s first philosopher](https://aeon.co/essays/why-we-should-remember-alan-turing-as-a-philosopher). *(By [Sebastian Sunday Grève](https://www.yhposolihp.com/), Aeon, 21 Apr 2022 Issue)*
+>  Sebastian writes a long essay detailing the historical accounts of Alan Turing's work on intelligent machinery. He posits that his work had the aim of conceptual clarity and not on operationalizing intelligence itself. He also explains why the Turing Test/Imitation Game is widely misunderstood by many.
 
 ## Crypto-Web3-NFTs
 
@@ -43,6 +50,7 @@ Hello! In this repository, I store the links to articles in the tech world I fin
 
 # Sources
 
+[Aeon](https://aeon.co/)\
 [Harvard Business Review](https://hbr.org/)\
 [The Atlantic](https://www.theatlantic.com/world/)\
 [Wired](https://www.wired.com/)
