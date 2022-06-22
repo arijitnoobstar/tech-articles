@@ -10,12 +10,13 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 # Contents
  * [Artificial Intelligence](#artificial-intelligence)
 	* [AI Consciousness](#ai-consciousness)
-	* [AI Ethics](#ai-ethics-and-regulation)
+	* [AI Ethics and Regulation](#ai-ethics-and-regulation)
 	* [AI History and Philosophy](#ai-history-and-philosophy)
 * [Crypto-Web3-NFTs](#crypto-web3-nfts)
 	* [Making sense of Web3 and NFTs](#making-sense-of-web3-and-nfts)
 * [Metaverse-AR-VR](#metaverse-ar-vr)
 	* [Concerns about the Metaverse](#concerns-about-the-metaverse)
+	* [Possibilities of the Metaverse](#possibilities-of-the-metaverse)
 * [Social Media](#social-media)
 	* [Free Speech and Content Moderation](#free-speech-and-content-moderation)
 
@@ -56,6 +57,11 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 
 >  #### [The metaverse is the next venue for body dysmorphia online](https://www.technologyreview.com/2021/11/16/1040174/facebook-metaverse-body-dysmorphia/). *(By [Tanya Basu](https://www.technologyreview.com/author/tanya-basu/), MIT Technology Review, 16th Nov 2021)*
 >  Of the many novel aspects of the Metaverse, Tanya brings to light the issue of body image problems from metaverse avatars. She highlights how accurate third-person view avatars of oneself can worsen body image issues and how inaccurate avatars may perpetuate unattainable standards of beauty.
+
+### Possibilities of the Metaverse
+
+>  #### [Can humanity be recreated in the metaverse?](https://venturebeat.com/2022/06/18/can-humanity-be-recreated-in-the-metaverse/?__vfz=medium%3Dstandalone_content_recirculation_with_ads). *(By [Tom Graham](https://venturebeat.com/author/tom-graham/), VentureBeat, 18th Jun 2022)*
+>  Tom explains the concept of hyperreality and how it blurs the line between reality and virtual tools. He expresses an optimistic view of how generative AI can be used to design a hyperreal metaverse in the next decade, one that extends beyond gaming and entertainment.
 
 ## Social Media
 
