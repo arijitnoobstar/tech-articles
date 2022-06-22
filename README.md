@@ -84,6 +84,7 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 [MIT Technology Review](https://www.technologyreview.com/)\
 [The Atlantic](https://www.theatlantic.com/world/)\
 [TIME](https://time.com/)\
+[VentureBeat](https://venturebeat.com/)\
 [Wired](https://www.wired.com/)
 
 # Contributor(s)
