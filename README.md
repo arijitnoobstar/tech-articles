@@ -14,6 +14,7 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 	* [AI History and Philosophy](#ai-history-and-philosophy)
 * [Crypto-Web3-NFTs](#crypto-web3-nfts)
 	* [Making sense of Web3 and NFTs](#making-sense-of-web3-and-nfts)
+	* [The NFT World](#the-nft-world)
 * [Metaverse-AR-VR](#metaverse-ar-vr)
 	* [Concerns about the Metaverse](#concerns-about-the-metaverse)
 	* [Possibilities of the Metaverse](#possibilities-of-the-metaverse)
@@ -47,6 +48,12 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 
 >  #### [The Internet Is Just Investment Banking Now](https://www.theatlantic.com/technology/archive/2022/02/future-internet-blockchain-investment-banking/621480/). *(By [Ian Bogost](https://www.theatlantic.com/author/ian-bogost/), The Atlantic, 5th Feb 2022)*
 >  While acknowledging the common ridicule of NFTs, Ian composes an understanding of why people take them seriously, hence why they work. He also proposes that Web3 is merely but an explicit expression of how our digital lives are already commodified for the sake of profits.
+
+### The NFT World
+
+>  #### [How Gary Vaynerchuk Became an NFT Guru](https://nymag.com/intelligencer/2021/11/gary-vaynerchuk-nft.html). *(By [Benjamin Wallace](https://nymag.com/author/benjamin-wallace/), New York Magazine, 16th Nov 2021)*
+>  Benjamin describes the phenomenon of Gary Vee and how he has managed to amass an empire of NFT devouts. This is a rather biographical piece that attempts to peek into the mind of Gary Vee and how he has come to this point.
+
 
 ## Metaverse-AR-VR
 
@@ -82,6 +89,7 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 [Aeon](https://aeon.co/)\
 [Harvard Business Review](https://hbr.org/)\
 [MIT Technology Review](https://www.technologyreview.com/)\
+[New York Magazine](https://nymag.com/)\
 [The Atlantic](https://www.theatlantic.com/world/)\
 [TIME](https://time.com/)\
 [VentureBeat](https://venturebeat.com/)\
