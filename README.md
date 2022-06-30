@@ -48,6 +48,9 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 >  #### [Stop Calling Everything AI, Machine-Learning Pioneer Says](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says). *(By [Kathy Pretz](https://spectrum.ieee.org/u/kathy-pretz), IEEE Spectrum, 31st Mar 2021)*
 >  Kathy echoes the opinions of an AI research legend, Michael I. Jordan. She notes the true impact of AI today as an augmentation of human technology with low-level pattern recognition in contrast with the original goal of AI in making human-like intelligent machines capable of higher level reasoning.
 
+>  #### [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://hdsr.mitpress.mit.edu/pub/wot7mkc1/release/10). *(By [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/), Harvard Data Science Review, 2nd Jul 2019)*
+>  An eminent researcher in the world of Computer Science and Statistics, Professor Jordan talks about how the term 'Artificial Intelligence' has been misrepresented by not just the public, but by scientists alike. He mentions that 'Human-Imitative AI', the original goal of AI, may not necessarily be the most useful goal for researchers and engineers today and the focus could be on building Intelligent Augmentation and Intelligent Infrastructure instead.
+
 ## Crypto-Web3-NFTs
 
 ### Making sense of Web3 and NFTs
@@ -94,6 +97,7 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 
 [Aeon](https://aeon.co/)\
 [Harvard Business Review](https://hbr.org/)\
+[Harvard Data Science Review](https://hdsr.mitpress.mit.edu/)\
 [IEEE Spectrum](https://spectrum.ieee.org/)\
 [MIT Technology Review](https://www.technologyreview.com/)\
 [New York Magazine](https://nymag.com/)\
