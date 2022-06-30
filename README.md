@@ -45,8 +45,7 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 
 ### Challenges in AI
 
->  #### [Stop Calling Everything AI, Machine-Learning Pioneer Says](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says
-). *(By [Kathy Pretz](https://spectrum.ieee.org/u/kathy-pretz), IEEE Spectrum, 31st Mar 2021)*
+>  #### [Stop Calling Everything AI, Machine-Learning Pioneer Says](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says). *(By [Kathy Pretz](https://spectrum.ieee.org/u/kathy-pretz), IEEE Spectrum, 31st Mar 2021)*
 >  Kathy echoes the opinions of an AI research legend, Michael I. Jordan. She notes the true impact of AI today as an augmentation of human technology with low-level pattern recognition in contrast with the original goal of AI in making human-like intelligent machines capable of higher level reasoning.
 
 ## Crypto-Web3-NFTs
