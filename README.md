@@ -12,6 +12,7 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 	* [AI Consciousness](#ai-consciousness)
 	* [AI Ethics and Regulation](#ai-ethics-and-regulation)
 	* [AI History and Philosophy](#ai-history-and-philosophy)
+	* [Challenges in AI](#challenges-in-ai)
 * [Crypto-Web3-NFTs](#crypto-web3-nfts)
 	* [Making sense of Web3 and NFTs](#making-sense-of-web3-and-nfts)
 	* [The NFT World](#the-nft-world)
@@ -41,6 +42,12 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 
 >  #### [AI’s first philosopher](https://aeon.co/essays/why-we-should-remember-alan-turing-as-a-philosopher). *(By [Sebastian Sunday Grève](https://www.yhposolihp.com/), Aeon, 21st Apr 2022)*
 >  Sebastian writes a long essay detailing the historical accounts of Alan Turing's work on intelligent machinery. He posits that his work had the aim of conceptual clarity and not on operationalizing intelligence itself. He also explains why the Turing Test/Imitation Game is widely misunderstood by many.
+
+### Challenges in AI
+
+>  #### [Stop Calling Everything AI, Machine-Learning Pioneer Says](https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says
+). *(By [Kathy Pretz](https://spectrum.ieee.org/u/kathy-pretz), IEEE Spectrum, 31st Mar 2021)*
+>  Kathy echoes the opinions of an AI research legend, Michael I. Jordan. She notes the true impact of AI today as an augmentation of human technology with low-level pattern recognition in contrast with the original goal of AI in making human-like intelligent machines capable of higher level reasoning.
 
 ## Crypto-Web3-NFTs
 
@@ -88,6 +95,7 @@ The topics are generally futuristic and range from ***AI, Autonomous Vehicles, S
 
 [Aeon](https://aeon.co/)\
 [Harvard Business Review](https://hbr.org/)\
+[IEEE Spectrum](https://spectrum.ieee.org/)\
 [MIT Technology Review](https://www.technologyreview.com/)\
 [New York Magazine](https://nymag.com/)\
 [The Atlantic](https://www.theatlantic.com/world/)\
